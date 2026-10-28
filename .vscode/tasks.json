@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run SmartFlow traffic controller",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"ngp hack\\run.py"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

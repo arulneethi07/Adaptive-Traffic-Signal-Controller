@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+# Uploaded traffic videos
+/ngp hack/backend/uploads/*.mp4
+
+# Generated computer vision videos
+/ngp hack/computer_vision/output/*.mp4
